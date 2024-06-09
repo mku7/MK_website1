@@ -22,6 +22,22 @@
             margin-left: auto;
             margin-right: auto;
           }
+      * {
+          box-sizing: border-box;
+        }
+        
+        .column {
+          float: left;
+          width: 33.33%;
+          padding: 5px;
+        }
+        
+        /* Clearfix (clear floats) */
+        .row::after {
+          content: "";
+          clear: both;
+          display: table;
+        }
     </style>
 
     <title> Navier-Stokes Equations </title>
@@ -34,6 +50,18 @@
       <h2> Mass Conservation (Continuity) </h2>
       <img src="MassFlow.png" alt="Mass Flow" class="center">
     </header>
+    
+    <div class="row">
+      <div class="column">
+        <img src="ControlVolume.png" alt="Control Volume" style="width:100%">
+      </div>
+      <div class="column">
+        <img src="MassFlow.png" alt="Mass Flow" style="width:100%">
+      </div>
+      <div class="column">
+        <img src="OutwardUnitNormal.png" alt="Outward Unit Normal" style="width:100%">
+      </div>
+    </div>
     
   </body>
 
