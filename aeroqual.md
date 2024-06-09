@@ -4,7 +4,7 @@
 
 ### Aerodynamics
 
-[Navier-Stokes Equations](aero/navier_stokes_eqns)
+[Navier-Stokes Equations](aero/navier_stokes_eqns.html)
 
 
 [Euler Equations]
