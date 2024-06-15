@@ -31,4 +31,8 @@
 
 # Structural Dynamics
 
+[Video - Intro to Structural Dynamics](https://gtvault-my.sharepoint.com/:v:/g/personal/mku7_gatech_edu/ERFTsfOPlW9CtJ9PBjvF6jUBCcnCCLuj0NLvM73YMRHPjQ?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJPbmVEcml2ZUZvckJ1c2luZXNzIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXciLCJyZWZlcnJhbFZpZXciOiJNeUZpbGVzTGlua0NvcHkifX0&e=bedSdb)
+
+[Video - SDOF Free Response](https://gtvault-my.sharepoint.com/:v:/g/personal/mku7_gatech_edu/Ef0vYxd7srRMnuhmGwNoNB8BSCI7qa0FIJBahYWPqpJxVQ?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJPbmVEcml2ZUZvckJ1c2luZXNzIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXciLCJyZWZlcnJhbFZpZXciOiJNeUZpbGVzTGlua0NvcHkifX0&e=JBsiwS)
+
 <img src="StructuralDynQualTopics.png" alt="Structural Dynamics Qual Topics" style="width:50%; height:50%"/>
