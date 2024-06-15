@@ -51,7 +51,7 @@
 
 [Video - MDOF - Newton](https://gtvault-my.sharepoint.com/:v:/g/personal/mku7_gatech_edu/EZAdVzXEJvlDtTCcr2K3xNYBKge9AtrbnNrhzx2Yfb-2Tg?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJPbmVEcml2ZUZvckJ1c2luZXNzIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXciLCJyZWZlcnJhbFZpZXciOiJNeUZpbGVzTGlua0NvcHkifX0&e=p25Kd9)
 
-[Video - MDOF](https://gtvault-my.sharepoint.com/:v:/g/personal/mku7_gatech_edu/EbUQcCoEO2FPonEiPzZmiK0BCAldPHHukpSvNed0C5PTGw?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJPbmVEcml2ZUZvckJ1c2luZXNzIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXciLCJyZWZlcnJhbFZpZXciOiJNeUZpbGVzTGlua0NvcHkifX0&e=ShJYj3)
+[Video - MDOF examples (Newton Method)](https://gtvault-my.sharepoint.com/:v:/g/personal/mku7_gatech_edu/EbUQcCoEO2FPonEiPzZmiK0BCAldPHHukpSvNed0C5PTGw?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJPbmVEcml2ZUZvckJ1c2luZXNzIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXciLCJyZWZlcnJhbFZpZXciOiJNeUZpbGVzTGlua0NvcHkifX0&e=ShJYj3) (June 13, 2024 Watched)
 
 [Video - Lagrange's Equation](https://gtvault-my.sharepoint.com/:v:/g/personal/mku7_gatech_edu/EUIU9ZO_0btLtvQyLvhaZhIBAlc8IiRj0m3BOGvjoS3lXg?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJPbmVEcml2ZUZvckJ1c2luZXNzIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXciLCJyZWZlcnJhbFZpZXciOiJNeUZpbGVzTGlua0NvcHkifX0&e=zhEl4E)
 
