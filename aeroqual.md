@@ -5,9 +5,9 @@
 
 
 
-[**Dr. Sankar Aero Website**](https://sankar.gatech.edu/?q=node/12#overlay-context=)
+* [**Dr. Sankar Aero Website**](https://sankar.gatech.edu/?q=node/12#overlay-context=)
 
-[**Dr. Sankar Youtube**](https://www.youtube.com/@lakshmisankar6498/videos)
+* [**Dr. Sankar Youtube**](https://www.youtube.com/@lakshmisankar6498/videos)
 
 ---
 
@@ -40,10 +40,12 @@
 
 
 
-<img src="AeroQualTopics.png" alt="Aero Qual Topics" style="width:50%; height:50%"/>
+<img src="AeroQualTopics.png" alt="Viscous Qual Topics" style="width:50%; height:50%"/>
 
 
 
 ---
 
 # Viscous Flow
+
+<img src="ViscousQualTopics.png" alt="Aero Qual Topics" style="width:50%; height:50%"/>
