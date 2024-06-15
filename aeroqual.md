@@ -2,7 +2,7 @@
 
 ## Topics
 
-### Aerodynamics
+## Aerodynamics
 
 ---
 
@@ -12,7 +12,7 @@
 
 ---
 
-##### A8 Transonic Flow
+## A8 Transonic Flow
 
 
 
@@ -26,7 +26,7 @@
 
 ---
 
-#### MK Notes
+## MK Notes
 
 [Navier-Stokes Equations](aero/navier_stokes_eqns.html)
 
@@ -42,4 +42,4 @@
 
 ---
 
-### Viscous Flow
+## Viscous Flow
