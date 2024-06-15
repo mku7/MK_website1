@@ -14,14 +14,14 @@
 ## A8 Transonic Flow (June 15, 2024)
 
 
-[Transonic Flow I](https://www.youtube.com/watch?v=uTkk97AETco)
+[Video - Transonic Flow I](https://www.youtube.com/watch?v=uTkk97AETco)
 * [MK PPT - Transonic Flow](https://gtvault-my.sharepoint.com/:p:/g/personal/mku7_gatech_edu/EcTPWctxpX9LiJaMwVWixzkBhRGV4dNKmC1Kln5WvglWUQ?e=fbUe20)
 
-[Transonic Flow II](https://www.youtube.com/watch?v=--SkqTrIWTE)
+[Video - Transonic Flow II](https://www.youtube.com/watch?v=--SkqTrIWTE)
 
-[2D Supersonic Flow, Ackert's Rule](https://www.youtube.com/watch?v=qFcg3qoKbHk)
+[Video - 2D Supersonic Flow, Ackert's Rule](https://www.youtube.com/watch?v=qFcg3qoKbHk)
 
-[3D Supersonic Flow](https://www.youtube.com/watch?v=HFgC_yTQx6M)
+[Video - 3D Supersonic Flow](https://www.youtube.com/watch?v=HFgC_yTQx6M)
 
 ---
 
