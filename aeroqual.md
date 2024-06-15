@@ -4,9 +4,13 @@
 
 ### Aerodynamics
 
-[Sankar Aero Website](https://sankar.gatech.edu/?q=node/12#overlay-context=)
+---
 
-[Sankar Youtube](https://www.youtube.com/@lakshmisankar6498/videos)
+[**Sankar Aero Website**](https://sankar.gatech.edu/?q=node/12#overlay-context=)
+
+[**Sankar Youtube**](https://www.youtube.com/@lakshmisankar6498/videos)
+
+---
 
 [Transonic Flow I](https://www.youtube.com/watch?v=uTkk97AETco)
 
