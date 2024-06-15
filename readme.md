@@ -2,9 +2,12 @@
 **Michelle Ku**\
 2024-06-15
 
-# Aerodynamics Quals Study Page
+# MK Quals Study Page
 
 [Aero Qual](aeroqual.md)
+
+[ASD Qual](asdqual.md)
+
 
 ---
 
