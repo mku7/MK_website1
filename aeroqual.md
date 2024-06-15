@@ -39,6 +39,8 @@
 [Linearized Potential Equations]
 
 
+![Aero Qual Topics](AeroQualTopics.png)
+
 
 
 ---
