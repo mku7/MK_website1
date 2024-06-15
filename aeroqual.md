@@ -40,7 +40,7 @@
 
 
 
-<img src="AeroQualTopics.png" alt="Aero Qual Topics" width="200" height="500"/>
+<img src="AeroQualTopics.png" alt="Aero Qual Topics" width="500" height="1000"/>
 
 
 
