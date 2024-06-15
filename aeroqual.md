@@ -1,8 +1,7 @@
 # Aerodyanmics Quals Study
 
-## Topics
 
-## Aerodynamics
+# Aerodynamics
 
 ---
 
@@ -42,4 +41,4 @@
 
 ---
 
-## Viscous Flow
+# Viscous Flow
