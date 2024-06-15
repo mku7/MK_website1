@@ -39,7 +39,7 @@
 [Linearized Potential Equations]
 
 
-![Aero Qual Topics](AeroQualTopics.png "Aero Qual Topics"){width=250,height=500}
+![Aero Qual Topics](AeroQualTopics.png "Aero Qual Topics"){width=250 height=500}
 
 
 
