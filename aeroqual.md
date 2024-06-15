@@ -39,7 +39,8 @@
 [Linearized Potential Equations]
 
 
-![Aero Qual Topics](AeroQualTopics.png "Aero Qual Topics"){ width=50% }
+
+<img src="AeroQualTopics.png" alt="Aero Qual Topics" width="200" height="500"/>
 
 
 
