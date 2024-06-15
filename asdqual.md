@@ -31,6 +31,8 @@
 
 # Structural Dynamics
 
+Videos by Dr. Riso
+
 [Video - Intro to Structural Dynamics](https://gtvault-my.sharepoint.com/:v:/g/personal/mku7_gatech_edu/ERFTsfOPlW9CtJ9PBjvF6jUBCcnCCLuj0NLvM73YMRHPjQ?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJPbmVEcml2ZUZvckJ1c2luZXNzIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXciLCJyZWZlcnJhbFZpZXciOiJNeUZpbGVzTGlua0NvcHkifX0&e=bedSdb) (June 3, 2024 Watched)
 
 [Video - SDOF Free Response](https://gtvault-my.sharepoint.com/:v:/g/personal/mku7_gatech_edu/Ef0vYxd7srRMnuhmGwNoNB8BSCI7qa0FIJBahYWPqpJxVQ?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJPbmVEcml2ZUZvckJ1c2luZXNzIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXciLCJyZWZlcnJhbFZpZXciOiJNeUZpbGVzTGlua0NvcHkifX0&e=JBsiwS) (June 4, 2024 Watched)
