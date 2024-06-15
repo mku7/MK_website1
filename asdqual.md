@@ -23,7 +23,7 @@
 
 
 
-<img src="DynamicsTopics.png" alt="Dynamics Qual Topics" style="width:50%; height:50%"/>
+<img src="DynamicsQualTopics.png" alt="Dynamics Qual Topics" style="width:50%; height:50%"/>
 
 
 
