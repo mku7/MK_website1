@@ -11,10 +11,11 @@
 
 ---
 
-## A8 Transonic Flow
+## A8 Transonic Flow (June 15, 2024)
 
 
 [Transonic Flow I](https://www.youtube.com/watch?v=uTkk97AETco)
+* [MK PPT - Transonic Flow](https://gtvault-my.sharepoint.com/:p:/g/personal/mku7_gatech_edu/EcTPWctxpX9LiJaMwVWixzkBhRGV4dNKmC1Kln5WvglWUQ?e=fbUe20)
 
 [Transonic Flow II](https://www.youtube.com/watch?v=--SkqTrIWTE)
 
@@ -26,7 +27,7 @@
 
 ## MK Notes
 
-[Transonic Flow](https://gtvault-my.sharepoint.com/:p:/g/personal/mku7_gatech_edu/EcTPWctxpX9LiJaMwVWixzkBhRGV4dNKmC1Kln5WvglWUQ?e=fbUe20)
+
 
 [Navier-Stokes Equations](aero/navier_stokes_eqns.html)
 
