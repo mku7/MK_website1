@@ -4,6 +4,11 @@
 
 ### Aerodynamics
 
+[Transonic Flow I](https://www.youtube.com/watch?v=uTkk97AETco)
+
+[Transonic Flow II](https://www.youtube.com/watch?v=--SkqTrIWTE)
+
+
 [Navier-Stokes Equations](aero/navier_stokes_eqns.html)
 
 
@@ -12,6 +17,8 @@
 [Full Potential Equations]
 
 [Linearized Potential Equations]
+
+
 
 
 
