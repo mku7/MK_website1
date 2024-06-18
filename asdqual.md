@@ -89,7 +89,7 @@ Videos by Dr. Riso
 
 28. [Video - 11-30-2023](https://gtvault-my.sharepoint.com/:v:/g/personal/mku7_gatech_edu/EaTbaVCI9x1MuBvkpi_nLQQByXE92lwjzS7Ff5bR54jEEg?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJPbmVEcml2ZUZvckJ1c2luZXNzIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXciLCJyZWZlcnJhbFZpZXciOiJNeUZpbGVzTGlua0NvcHkifX0&e=4IFF6x)
 
-[Video - 12-05-2023](https://gtvault-my.sharepoint.com/:v:/g/personal/mku7_gatech_edu/ESBKUQ8dP-tHqYok8fo9U_IBPxDX2AE71IfWFGHZflfVAg?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJPbmVEcml2ZUZvckJ1c2luZXNzIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXciLCJyZWZlcnJhbFZpZXciOiJNeUZpbGVzTGlua0NvcHkifX0&e=UqYobD)
+29. [Video - 12-05-2023](https://gtvault-my.sharepoint.com/:v:/g/personal/mku7_gatech_edu/ESBKUQ8dP-tHqYok8fo9U_IBPxDX2AE71IfWFGHZflfVAg?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJPbmVEcml2ZUZvckJ1c2luZXNzIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXciLCJyZWZlcnJhbFZpZXciOiJNeUZpbGVzTGlua0NvcHkifX0&e=UqYobD)
 
 
 <img src="StructuralDynQualTopics.png" alt="Structural Dynamics Qual Topics" style="width:50%; height:50%"/>
