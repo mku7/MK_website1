@@ -59,7 +59,7 @@ Videos by Dr. Riso
 
 13. [Video - MDOF Lagrange's Equation Examples, Synchronous Motion 9-28-2023](https://gtvault-my.sharepoint.com/:v:/g/personal/mku7_gatech_edu/ESFDav8Qq4FGug1UuO_Uov8BQwgBFaEtmVP92Lgvemq0tA?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJPbmVEcml2ZUZvckJ1c2luZXNzIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXciLCJyZWZlcnJhbFZpZXciOiJNeUZpbGVzTGlua0NvcHkifX0&e=krmAE4) (June 17, 2024 Watched)
 
-14. [Video - 10-3-2023](https://gtvault-my.sharepoint.com/:v:/g/personal/mku7_gatech_edu/ES1E5URu2jdCrOEKrjGEGgsBXCv8FA-kTVtM_At02ASCKA?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJPbmVEcml2ZUZvckJ1c2luZXNzIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXciLCJyZWZlcnJhbFZpZXciOiJNeUZpbGVzTGlua0NvcHkifX0&e=GHDUpm)
+14. [Video - MDOF Synchronous Motion Modal Analysis Derivation Eigenvalue Problem 10-3-2023](https://gtvault-my.sharepoint.com/:v:/g/personal/mku7_gatech_edu/ES1E5URu2jdCrOEKrjGEGgsBXCv8FA-kTVtM_At02ASCKA?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJPbmVEcml2ZUZvckJ1c2luZXNzIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXciLCJyZWZlcnJhbFZpZXciOiJNeUZpbGVzTGlua0NvcHkifX0&e=GHDUpm) (June 18, 2024 Watched)
 
 15. [Video - 10-12-2023](https://gtvault-my.sharepoint.com/:v:/g/personal/mku7_gatech_edu/ESLU-bw2RSFBhJBkbGKlkIwBLp6tTt2xtcbnAT3eMSr-cA?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJPbmVEcml2ZUZvckJ1c2luZXNzIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXciLCJyZWZlcnJhbFZpZXciOiJNeUZpbGVzTGlua0NvcHkifX0&e=vpDXj5)
 
