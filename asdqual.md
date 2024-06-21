@@ -63,7 +63,7 @@ Videos by Dr. Riso
 
 15. [Video - MDOF Modal Analysis Orthogonality, Example 10-12-2023](https://gtvault-my.sharepoint.com/:v:/g/personal/mku7_gatech_edu/ESLU-bw2RSFBhJBkbGKlkIwBLp6tTt2xtcbnAT3eMSr-cA?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJPbmVEcml2ZUZvckJ1c2luZXNzIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXciLCJyZWZlcnJhbFZpZXciOiJNeUZpbGVzTGlua0NvcHkifX0&e=vpDXj5) (June 19, 2024 Watched)
 
-16. [Video - 10-17-2023](https://gtvault-my.sharepoint.com/:v:/g/personal/mku7_gatech_edu/Eamf3ohxb_1HkIRFO4PVxswBX20cGiRv8id-sVQsogN3xw?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJPbmVEcml2ZUZvckJ1c2luZXNzIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXciLCJyZWZlcnJhbFZpZXciOiJNeUZpbGVzTGlua0NvcHkifX0&e=8dzqYR)
+16. [Video - MDOF Modal Analysis Solve Synchronous Motion, Intro to Damping 10-17-2023](https://gtvault-my.sharepoint.com/:v:/g/personal/mku7_gatech_edu/Eamf3ohxb_1HkIRFO4PVxswBX20cGiRv8id-sVQsogN3xw?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJPbmVEcml2ZUZvckJ1c2luZXNzIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXciLCJyZWZlcnJhbFZpZXciOiJNeUZpbGVzTGlua0NvcHkifX0&e=8dzqYR) (June 20, 2024 Watched)
 
 17. [Video - 10-19-2023](https://gtvault-my.sharepoint.com/:v:/g/personal/mku7_gatech_edu/EUKhOI4HABRGh6tywcXIs0wBcCSt_PVffN5nR9ILbhVVgQ?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJPbmVEcml2ZUZvckJ1c2luZXNzIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXciLCJyZWZlcnJhbFZpZXciOiJNeUZpbGVzTGlua0NvcHkifX0&e=FHUwVW)
 
