@@ -67,7 +67,7 @@ Videos by Dr. Riso
 
 17. [Video - MDOF Modal Analysis with Damping, Forced Response 10-19-2023](https://gtvault-my.sharepoint.com/:v:/g/personal/mku7_gatech_edu/EUKhOI4HABRGh6tywcXIs0wBcCSt_PVffN5nR9ILbhVVgQ?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJPbmVEcml2ZUZvckJ1c2luZXNzIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXciLCJyZWZlcnJhbFZpZXciOiJNeUZpbGVzTGlua0NvcHkifX0&e=FHUwVW) (June 21, 2024 Watched)
 
-18. [Video - 10-24-2023](https://gtvault-my.sharepoint.com/:v:/g/personal/mku7_gatech_edu/EdEG97BgJnZIle4-0Z5s27IBA-NE6co1-T81bIv59Lxu6A?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJPbmVEcml2ZUZvckJ1c2luZXNzIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXciLCJyZWZlcnJhbFZpZXciOiJNeUZpbGVzTGlua0NvcHkifX0&e=SEbm1T)
+18. [Video - Continuous System Intro, Hamilton's Principle, Wing Example 10-24-2023](https://gtvault-my.sharepoint.com/:v:/g/personal/mku7_gatech_edu/EdEG97BgJnZIle4-0Z5s27IBA-NE6co1-T81bIv59Lxu6A?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJPbmVEcml2ZUZvckJ1c2luZXNzIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXciLCJyZWZlcnJhbFZpZXciOiJNeUZpbGVzTGlua0NvcHkifX0&e=SEbm1T) (June 22, 2024 Watched)
 
 19. [Video - 10-26-2023](https://gtvault-my.sharepoint.com/:v:/g/personal/mku7_gatech_edu/ESoRr6oPgh5PgJtza_fwXzgBA1qB1zZJmb4MYuWippxHEA?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJPbmVEcml2ZUZvckJ1c2luZXNzIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXciLCJyZWZlcnJhbFZpZXciOiJNeUZpbGVzTGlua0NvcHkifX0&e=UinvU2)
 
