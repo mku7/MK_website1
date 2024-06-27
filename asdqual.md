@@ -71,7 +71,7 @@ Videos by Dr. Riso
 
 19. [Video - String Governing Equation (Hamilton's Principle) 10-26-2023](https://gtvault-my.sharepoint.com/:v:/g/personal/mku7_gatech_edu/ESoRr6oPgh5PgJtza_fwXzgBA1qB1zZJmb4MYuWippxHEA?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJPbmVEcml2ZUZvckJ1c2luZXNzIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXciLCJyZWZlcnJhbFZpZXciOiJNeUZpbGVzTGlua0NvcHkifX0&e=UinvU2) (June 24, 2024 Watched)
 
-20. [Video - String Synchronous Solution, Eigenvalue, Eigenfunction, Mode Shape 10-31-2023](https://gtvault-my.sharepoint.com/:v:/g/personal/mku7_gatech_edu/ES9ygb_W0N5DkbC31xewBO8BSqUW_v9U6ppIQ6ISq49ryg?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJPbmVEcml2ZUZvckJ1c2luZXNzIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXciLCJyZWZlcnJhbFZpZXciOiJNeUZpbGVzTGlua0NvcHkifX0&e=SwE3a0)(Juen 26, 2024 Watched)
+20. [Video - String Synchronous Solution, Eigenvalue, Eigenfunction, Mode Shape 10-31-2023](https://gtvault-my.sharepoint.com/:v:/g/personal/mku7_gatech_edu/ES9ygb_W0N5DkbC31xewBO8BSqUW_v9U6ppIQ6ISq49ryg?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJPbmVEcml2ZUZvckJ1c2luZXNzIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXciLCJyZWZlcnJhbFZpZXciOiJNeUZpbGVzTGlua0NvcHkifX0&e=SwE3a0) (June 26, 2024 Watched)
 
 21. [Video - 11-02-2023](https://gtvault-my.sharepoint.com/:v:/g/personal/mku7_gatech_edu/EYspgL_PgvpHirdQ82pmmtwB7SZWqMgCUW60R3LFcW6uEQ?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJPbmVEcml2ZUZvckJ1c2luZXNzIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXciLCJyZWZlcnJhbFZpZXciOiJNeUZpbGVzTGlua0NvcHkifX0&e=ypuLs7)
 
