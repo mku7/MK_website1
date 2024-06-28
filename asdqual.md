@@ -73,7 +73,7 @@ Videos by Dr. Riso
 
 20. [Video - String Synchronous Solution, Eigenvalue, Eigenfunction, Mode Shape 10-31-2023](https://gtvault-my.sharepoint.com/:v:/g/personal/mku7_gatech_edu/ES9ygb_W0N5DkbC31xewBO8BSqUW_v9U6ppIQ6ISq49ryg?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJPbmVEcml2ZUZvckJ1c2luZXNzIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXciLCJyZWZlcnJhbFZpZXciOiJNeUZpbGVzTGlua0NvcHkifX0&e=SwE3a0) (June 26, 2024 Watched)
 
-21. [Video - 11-02-2023](https://gtvault-my.sharepoint.com/:v:/g/personal/mku7_gatech_edu/EYspgL_PgvpHirdQ82pmmtwB7SZWqMgCUW60R3LFcW6uEQ?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJPbmVEcml2ZUZvckJ1c2luZXNzIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXciLCJyZWZlcnJhbFZpZXciOiJNeUZpbGVzTGlua0NvcHkifX0&e=ypuLs7)
+21. [Video - Beam Axial and Torsional Vibration 11-02-2023](https://gtvault-my.sharepoint.com/:v:/g/personal/mku7_gatech_edu/EYspgL_PgvpHirdQ82pmmtwB7SZWqMgCUW60R3LFcW6uEQ?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJPbmVEcml2ZUZvckJ1c2luZXNzIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXciLCJyZWZlcnJhbFZpZXciOiJNeUZpbGVzTGlua0NvcHkifX0&e=ypuLs7) (June 27, 2024 Watched)
 
 22. [Video - 11-07-2023](https://gtvault-my.sharepoint.com/:v:/g/personal/mku7_gatech_edu/EeFSYVbZZbBJlNx0wGvmf0cBVFd-hMK9VTnJE7zklOf0zw?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJPbmVEcml2ZUZvckJ1c2luZXNzIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXciLCJyZWZlcnJhbFZpZXciOiJNeUZpbGVzTGlua0NvcHkifX0&e=k4dgw5)
 
