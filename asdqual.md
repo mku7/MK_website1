@@ -75,7 +75,7 @@ Videos by Dr. Riso
 
 21. [Video - Beam Axial and Torsional Vibration 11-02-2023](https://gtvault-my.sharepoint.com/:v:/g/personal/mku7_gatech_edu/EYspgL_PgvpHirdQ82pmmtwB7SZWqMgCUW60R3LFcW6uEQ?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJPbmVEcml2ZUZvckJ1c2luZXNzIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXciLCJyZWZlcnJhbFZpZXciOiJNeUZpbGVzTGlua0NvcHkifX0&e=ypuLs7) (June 27, 2024 Watched)
 
-22. [Video - 11-07-2023](https://gtvault-my.sharepoint.com/:v:/g/personal/mku7_gatech_edu/EeFSYVbZZbBJlNx0wGvmf0cBVFd-hMK9VTnJE7zklOf0zw?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJPbmVEcml2ZUZvckJ1c2luZXNzIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXciLCJyZWZlcnJhbFZpZXciOiJNeUZpbGVzTGlua0NvcHkifX0&e=k4dgw5)
+22. [Video - Beam in torsion and beam in bending 11-07-2023](https://gtvault-my.sharepoint.com/:v:/g/personal/mku7_gatech_edu/EeFSYVbZZbBJlNx0wGvmf0cBVFd-hMK9VTnJE7zklOf0zw?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJPbmVEcml2ZUZvckJ1c2luZXNzIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXciLCJyZWZlcnJhbFZpZXciOiJNeUZpbGVzTGlua0NvcHkifX0&e=k4dgw5) (July 2, 2024 Watched)
 
 23. [Video - 11-09-2023](https://gtvault-my.sharepoint.com/:v:/g/personal/mku7_gatech_edu/EcUA_HJzAVhFtsO40jvnT3gBIZn_12FYJStu1t3HSkEDEA?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJPbmVEcml2ZUZvckJ1c2luZXNzIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXciLCJyZWZlcnJhbFZpZXciOiJNeUZpbGVzTGlua0NvcHkifX0&e=GelYkk)
 
