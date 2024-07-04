@@ -77,7 +77,7 @@ Videos by Dr. Riso
 
 22. [Video - Beam in torsion and beam in bending 11-07-2023](https://gtvault-my.sharepoint.com/:v:/g/personal/mku7_gatech_edu/EeFSYVbZZbBJlNx0wGvmf0cBVFd-hMK9VTnJE7zklOf0zw?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJPbmVEcml2ZUZvckJ1c2luZXNzIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXciLCJyZWZlcnJhbFZpZXciOiJNeUZpbGVzTGlua0NvcHkifX0&e=k4dgw5) (July 2, 2024 Watched)
 
-23. [Video - 11-09-2023](https://gtvault-my.sharepoint.com/:v:/g/personal/mku7_gatech_edu/EcUA_HJzAVhFtsO40jvnT3gBIZn_12FYJStu1t3HSkEDEA?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJPbmVEcml2ZUZvckJ1c2luZXNzIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXciLCJyZWZlcnJhbFZpZXciOiJNeUZpbGVzTGlua0NvcHkifX0&e=GelYkk)
+23. [Video - Beam in Bending Solution and Boundary Conditions 11-09-2023](https://gtvault-my.sharepoint.com/:v:/g/personal/mku7_gatech_edu/EcUA_HJzAVhFtsO40jvnT3gBIZn_12FYJStu1t3HSkEDEA?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJPbmVEcml2ZUZvckJ1c2luZXNzIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXciLCJyZWZlcnJhbFZpZXciOiJNeUZpbGVzTGlua0NvcHkifX0&e=GelYkk) (July 3, 2024 Watched)
 
 24. [Video - 11-14-2023](https://gtvault-my.sharepoint.com/:v:/g/personal/mku7_gatech_edu/Ef1yokjqd05EqQDbdwHogJoBgDD2HnXKdHyr0jWnIHYZeA?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJPbmVEcml2ZUZvckJ1c2luZXNzIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXciLCJyZWZlcnJhbFZpZXciOiJNeUZpbGVzTGlua0NvcHkifX0&e=fcaKbv)
 
