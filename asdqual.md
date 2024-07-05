@@ -79,7 +79,7 @@ Videos by Dr. Riso
 
 23. [Video - Beam in Bending Solution and Boundary Conditions 11-09-2023](https://gtvault-my.sharepoint.com/:v:/g/personal/mku7_gatech_edu/EcUA_HJzAVhFtsO40jvnT3gBIZn_12FYJStu1t3HSkEDEA?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJPbmVEcml2ZUZvckJ1c2luZXNzIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXciLCJyZWZlcnJhbFZpZXciOiJNeUZpbGVzTGlua0NvcHkifX0&e=GelYkk) (July 3, 2024 Watched)
 
-24. [Video - 11-14-2023](https://gtvault-my.sharepoint.com/:v:/g/personal/mku7_gatech_edu/Ef1yokjqd05EqQDbdwHogJoBgDD2HnXKdHyr0jWnIHYZeA?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJPbmVEcml2ZUZvckJ1c2luZXNzIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXciLCJyZWZlcnJhbFZpZXciOiJNeUZpbGVzTGlua0NvcHkifX0&e=fcaKbv)
+24. [Video - Free response to continuous systems 11-14-2023](https://gtvault-my.sharepoint.com/:v:/g/personal/mku7_gatech_edu/Ef1yokjqd05EqQDbdwHogJoBgDD2HnXKdHyr0jWnIHYZeA?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJPbmVEcml2ZUZvckJ1c2luZXNzIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXciLCJyZWZlcnJhbFZpZXciOiJNeUZpbGVzTGlua0NvcHkifX0&e=fcaKbv) (July 4, 2024 Watched)
 
 25. [Video - 11-16-2023](https://gtvault-my.sharepoint.com/:v:/g/personal/mku7_gatech_edu/EbRU4IhZ9f9PiND4ADD8e3MBkU1UUNZbdLh6ZpZPODIXTw?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJPbmVEcml2ZUZvckJ1c2luZXNzIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXciLCJyZWZlcnJhbFZpZXciOiJNeUZpbGVzTGlua0NvcHkifX0&e=f6FKZs)
 
