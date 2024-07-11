@@ -83,7 +83,7 @@ Videos by Dr. Riso
 
 25. [Video - Continuous system forced response 11-16-2023](https://gtvault-my.sharepoint.com/:v:/g/personal/mku7_gatech_edu/EbRU4IhZ9f9PiND4ADD8e3MBkU1UUNZbdLh6ZpZPODIXTw?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJPbmVEcml2ZUZvckJ1c2luZXNzIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXciLCJyZWZlcnJhbFZpZXciOiJNeUZpbGVzTGlua0NvcHkifX0&e=f6FKZs) (July 8, 2024 Watched)
 
-26. [Video - 11-21-2023](https://gtvault-my.sharepoint.com/:v:/g/personal/mku7_gatech_edu/EUUlelQoTjJCmpIYLRwL-c0Bvavn0kmSGrUq86YpKne5Sw?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJPbmVEcml2ZUZvckJ1c2luZXNzIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXciLCJyZWZlcnJhbFZpZXciOiJNeUZpbGVzTGlua0NvcHkifX0&e=bXpSWz)
+26. [Video - Rayleigh-Ritz Method (Approximate Method) 11-21-2023](https://gtvault-my.sharepoint.com/:v:/g/personal/mku7_gatech_edu/EUUlelQoTjJCmpIYLRwL-c0Bvavn0kmSGrUq86YpKne5Sw?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJPbmVEcml2ZUZvckJ1c2luZXNzIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXciLCJyZWZlcnJhbFZpZXciOiJNeUZpbGVzTGlua0NvcHkifX0&e=bXpSWz) (July 11, 2024 Watched)
 
 27. [Video - 11-28-2023](https://gtvault-my.sharepoint.com/:v:/g/personal/mku7_gatech_edu/EV4PT5Z2ZYJEpxzd3tqXvRkBP45MoWYRel2u07OdUma0Fw?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJPbmVEcml2ZUZvckJ1c2luZXNzIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXciLCJyZWZlcnJhbFZpZXciOiJNeUZpbGVzTGlua0NvcHkifX0&e=hYQCvo)
 
