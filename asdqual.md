@@ -85,7 +85,7 @@ Videos by Dr. Riso
 
 26. [Video - Rayleigh-Ritz Method (Approximate Method) 11-21-2023](https://gtvault-my.sharepoint.com/:v:/g/personal/mku7_gatech_edu/EUUlelQoTjJCmpIYLRwL-c0Bvavn0kmSGrUq86YpKne5Sw?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJPbmVEcml2ZUZvckJ1c2luZXNzIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXciLCJyZWZlcnJhbFZpZXciOiJNeUZpbGVzTGlua0NvcHkifX0&e=bXpSWz) (July 11, 2024 Watched)
 
-27. [Video - 11-28-2023](https://gtvault-my.sharepoint.com/:v:/g/personal/mku7_gatech_edu/EV4PT5Z2ZYJEpxzd3tqXvRkBP45MoWYRel2u07OdUma0Fw?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJPbmVEcml2ZUZvckJ1c2luZXNzIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXciLCJyZWZlcnJhbFZpZXciOiJNeUZpbGVzTGlua0NvcHkifX0&e=hYQCvo)
+27. [Video - Galerkin's Method, Advanced Boundary Conditions for Beam Torsion 11-28-2023](https://gtvault-my.sharepoint.com/:v:/g/personal/mku7_gatech_edu/EV4PT5Z2ZYJEpxzd3tqXvRkBP45MoWYRel2u07OdUma0Fw?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJPbmVEcml2ZUZvckJ1c2luZXNzIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXciLCJyZWZlcnJhbFZpZXciOiJNeUZpbGVzTGlua0NvcHkifX0&e=hYQCvo) (July 11-12, 2024 Watched)
 
 28. [Video - 11-30-2023](https://gtvault-my.sharepoint.com/:v:/g/personal/mku7_gatech_edu/EaTbaVCI9x1MuBvkpi_nLQQByXE92lwjzS7Ff5bR54jEEg?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJPbmVEcml2ZUZvckJ1c2luZXNzIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXciLCJyZWZlcnJhbFZpZXciOiJNeUZpbGVzTGlua0NvcHkifX0&e=4IFF6x)
 
