@@ -87,7 +87,7 @@ Videos by Dr. Riso
 
 27. [Video - Galerkin's Method, Advanced Boundary Conditions for Beam Torsion 11-28-2023](https://gtvault-my.sharepoint.com/:v:/g/personal/mku7_gatech_edu/EV4PT5Z2ZYJEpxzd3tqXvRkBP45MoWYRel2u07OdUma0Fw?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJPbmVEcml2ZUZvckJ1c2luZXNzIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXciLCJyZWZlcnJhbFZpZXciOiJNeUZpbGVzTGlua0NvcHkifX0&e=hYQCvo) (July 11-12, 2024 Watched)
 
-28. [Video - 11-30-2023](https://gtvault-my.sharepoint.com/:v:/g/personal/mku7_gatech_edu/EaTbaVCI9x1MuBvkpi_nLQQByXE92lwjzS7Ff5bR54jEEg?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJPbmVEcml2ZUZvckJ1c2luZXNzIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXciLCJyZWZlcnJhbFZpZXciOiJNeUZpbGVzTGlua0NvcHkifX0&e=4IFF6x)
+28. [Video - Rotational Inertia BCs, Timoshenko Beam 11-30-2023](https://gtvault-my.sharepoint.com/:v:/g/personal/mku7_gatech_edu/EaTbaVCI9x1MuBvkpi_nLQQByXE92lwjzS7Ff5bR54jEEg?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJPbmVEcml2ZUZvckJ1c2luZXNzIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXciLCJyZWZlcnJhbFZpZXciOiJNeUZpbGVzTGlua0NvcHkifX0&e=4IFF6x) (July 14, 2024 Watched)
 
 29. [Video - 12-05-2023](https://gtvault-my.sharepoint.com/:v:/g/personal/mku7_gatech_edu/ESBKUQ8dP-tHqYok8fo9U_IBPxDX2AE71IfWFGHZflfVAg?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJPbmVEcml2ZUZvckJ1c2luZXNzIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXciLCJyZWZlcnJhbFZpZXciOiJNeUZpbGVzTGlua0NvcHkifX0&e=UqYobD)
 
