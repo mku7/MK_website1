@@ -67,7 +67,7 @@
 
 27. [Video - Airfoils](https://www.youtube.com/watch?v=bni1tH5MSv8&list=PL_EkjePoSGXgmXKjByxaPodoRaOLFPv2W&index=5&pp=iAQB)
 
-28. [Video - Exact Solutions to Navier-Stokes Equations](https://www.youtube.com/watch?v=jsBmt4t2Zxo&list=PL_EkjePoSGXgmXKjByxaPodoRaOLFPv2W&index=4&pp=iAQB)
+28. [Video - Exact Solutions to Navier-Stokes Equations](https://www.youtube.com/watch?v=jsBmt4t2Zxo&list=PL_EkjePoSGXgmXKjByxaPodoRaOLFPv2W&index=4&pp=iAQB) (July 15, 2024 Watched)
 
 29. [Video - 2D Navier-Stokes Equations](https://www.youtube.com/watch?v=aKiBNr9-tCI&list=PL_EkjePoSGXgmXKjByxaPodoRaOLFPv2W&index=3&pp=iAQB)
 
