@@ -27,15 +27,15 @@
 
 ### Thin Airfoil Theory
 
-6. [Video - Thin Airfoil Theory Part 1](https://www.youtube.com/watch?v=oXfeIMBVEyg&list=PL_EkjePoSGXgmXKjByxaPodoRaOLFPv2W&index=22&pp=iAQB)
+6. [Video - Thin Airfoil Theory Part 1](https://www.youtube.com/watch?v=oXfeIMBVEyg)
 
-7. [Video - Thin Airfoil Theory Part 2](https://www.youtube.com/watch?v=p7ZIjZcEiKE&list=PL_EkjePoSGXgmXKjByxaPodoRaOLFPv2W&index=23&pp=iAQB)
+7. [Video - Thin Airfoil Theory Part 2](https://www.youtube.com/watch?v=p7ZIjZcEiKE)
 
-8. [Video - Thin Airfoil Theory Part 3](https://www.youtube.com/watch?v=ZarvNcfQHc4&list=PL_EkjePoSGXgmXKjByxaPodoRaOLFPv2W&index=24&pp=iAQB)
+8. [Video - Thin Airfoil Theory Part 3](https://www.youtube.com/watch?v=ZarvNcfQHc4)
 
-9. [Video - Thin Airfoil Theory Part 4](https://www.youtube.com/watch?v=0YXUT3NOtks&list=PL_EkjePoSGXgmXKjByxaPodoRaOLFPv2W&index=25&pp=iAQB)
+9. [Video - Thin Airfoil Theory Part 4](https://www.youtube.com/watch?v=0YXUT3NOtks)
 
-10. [Video - Thin Airfoil Theory Examples](https://www.youtube.com/watch?v=Mobsg5yn8iU&list=PL_EkjePoSGXgmXKjByxaPodoRaOLFPv2W&index=26&pp=iAQB)
+10. [Video - Thin Airfoil Theory Examples](https://www.youtube.com/watch?v=Mobsg5yn8iU)
 
 
 ### Building Blocks
