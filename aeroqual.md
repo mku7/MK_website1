@@ -17,11 +17,11 @@
 
 [Navier-Stokes Equations pdf](https://www.sankar.gatech.edu/sites/default/files/2D_Navier_Stokes_Equations_Derivations.pdf)
 
-[Video - 2D Navier-Stokes Equations](https://www.youtube.com/watch?v=aKiBNr9-tCI&t=1929s) (July 16, 2024 Watched)
+* [Video - 2D Navier-Stokes Equations](https://www.youtube.com/watch?v=aKiBNr9-tCI&t=1929s) (July 16, 2024 Watched)
 
 [Exact Solutions to Navier-Stokes Equations pdf](https://www.sankar.gatech.edu/sites/default/files/Navier_Stokes_Exact_Solutions.pdf)
 
-[Video - Exact Solutions to Navier-Stokes Equations](https://www.youtube.com/watch?v=jsBmt4t2Zxo) (July 15, 2024 Watched)
+* [Video - Exact Solutions to Navier-Stokes Equations](https://www.youtube.com/watch?v=jsBmt4t2Zxo) (July 15, 2024 Watched)
 
 
 ### Full and Linearized Potential Equations
