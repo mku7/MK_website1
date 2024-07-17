@@ -13,6 +13,8 @@
 
 ## Dr. Sankar Youtube Videos
 
+### Prandtl's Lifting Line Theory
+
 1. [Video - Lifting Line Theory 1](https://www.youtube.com/watch?v=-XFf1P0RpeA&list=PL_EkjePoSGXgmXKjByxaPodoRaOLFPv2W&index=31&pp=iAQB) (July 16, 2024 Watched)
 
 2. [Video - Lifting Line Theory 2](https://www.youtube.com/watch?v=nDbpUFR7jec&list=PL_EkjePoSGXgmXKjByxaPodoRaOLFPv2W&index=30&pp=iAQB)
@@ -22,6 +24,8 @@
 4. [Video - Lifting Line Theory 4](https://www.youtube.com/watch?v=Ryk7KHgdjxI&list=PL_EkjePoSGXgmXKjByxaPodoRaOLFPv2W&index=28&pp=iAQB)
 
 5. [Video - Lifting Line Theory 5](https://www.youtube.com/watch?v=--1X3fK46A4&list=PL_EkjePoSGXgmXKjByxaPodoRaOLFPv2W&index=27&pp=iAQB)
+
+### Thin Airfoil Theory
 
 6. [Video - Thin Airfoil Theory Part 1](https://www.youtube.com/watch?v=oXfeIMBVEyg&list=PL_EkjePoSGXgmXKjByxaPodoRaOLFPv2W&index=22&pp=iAQB)
 
@@ -33,6 +37,9 @@
 
 10. [Video - Thin Airfoil Theory Examples](https://www.youtube.com/watch?v=Mobsg5yn8iU&list=PL_EkjePoSGXgmXKjByxaPodoRaOLFPv2W&index=26&pp=iAQB)
 
+
+### Building Blocks
+
 11. [Video - Building Blocks Part 1](https://www.youtube.com/watch?v=O86ln81vxrE&list=PL_EkjePoSGXgmXKjByxaPodoRaOLFPv2W&index=21&pp=iAQB)
 
 12. [Video - Building Blocks Part 2](https://www.youtube.com/watch?v=4KFER6Xb5Is&list=PL_EkjePoSGXgmXKjByxaPodoRaOLFPv2W&index=20&pp=iAQB)
@@ -41,12 +48,16 @@
 
 14. [Video - Thwaites' Method](https://www.youtube.com/watch?v=FafpT5DwJP0&list=PL_EkjePoSGXgmXKjByxaPodoRaOLFPv2W&index=18&pp=iAQB)
 
+
+### Turbulent Flow
+
 15. [Video - Turbulent Flow Video 1](https://www.youtube.com/watch?v=IA0A6KmNQKA&list=PL_EkjePoSGXgmXKjByxaPodoRaOLFPv2W&index=15&pp=iAQB)
 
 16. [Video - Turbulent Flow Video 2](https://www.youtube.com/watch?v=C0sVJZoK4zM&list=PL_EkjePoSGXgmXKjByxaPodoRaOLFPv2W&index=16&pp=iAQB)
 
 17. [Video - Turbulent Flow Video 3](https://www.youtube.com/watch?v=Nt0Ao53Rg4w&list=PL_EkjePoSGXgmXKjByxaPodoRaOLFPv2W&index=17&pp=iAQB)
 
+### 
 18. [Video - Flow Transition](https://www.youtube.com/watch?v=Ky9JHh-NrUk&list=PL_EkjePoSGXgmXKjByxaPodoRaOLFPv2W&index=14&pp=iAQB)
 
 19. [Video - Worked Out Examples](https://www.youtube.com/watch?v=UOiwy0ZPOGw&list=PL_EkjePoSGXgmXKjByxaPodoRaOLFPv2W&index=13&pp=iAQB)
