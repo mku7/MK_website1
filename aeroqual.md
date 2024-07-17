@@ -13,6 +13,32 @@
 
 ## Dr. Sankar Youtube Videos
 
+### Navier-Stokes Equations
+
+[Navier-Stokes Equations pdf](https://www.sankar.gatech.edu/sites/default/files/2D_Navier_Stokes_Equations_Derivations.pdf)
+
+29. [Video - 2D Navier-Stokes Equations](https://www.youtube.com/watch?v=aKiBNr9-tCI&t=1929s) (July 16, 2024 Watched)
+
+[Exact Solutions to Navier-Stokes Equations pdf](https://www.sankar.gatech.edu/sites/default/files/Navier_Stokes_Exact_Solutions.pdf)
+
+28. [Video - Exact Solutions to Navier-Stokes Equations](https://www.youtube.com/watch?v=jsBmt4t2Zxo) (July 15, 2024 Watched)
+
+
+
+### Building Blocks
+
+[Building Blocks pdf](http://www.sankar.gatech.edu/sites/default/files/Building_Blocks.pdf)
+
+11. [Video - Building Blocks Part 1](https://www.youtube.com/watch?v=O86ln81vxrE)
+
+12. [Video - Building Blocks Part 2](https://www.youtube.com/watch?v=4KFER6Xb5Is)
+
+13. [Video - Building Blocks Part 3](https://www.youtube.com/watch?v=zTnABQyOBzk)
+
+14. [Video - Thwaites' Method](https://www.youtube.com/watch?v=FafpT5DwJP0)
+
+
+
 ### Prandtl's Lifting Line Theory
 
  [Lifting Line Theory pdf](https://www.sankar.gatech.edu/sites/default/files/Lifting_Line_Theory.pdf)
@@ -27,6 +53,7 @@
 
 5. [Video - Lifting Line Theory 5](https://www.youtube.com/watch?v=--1X3fK46A4)
 
+
 ### Thin Airfoil Theory
 
 6. [Video - Thin Airfoil Theory Part 1](https://www.youtube.com/watch?v=oXfeIMBVEyg)
@@ -40,15 +67,7 @@
 10. [Video - Thin Airfoil Theory Examples](https://www.youtube.com/watch?v=Mobsg5yn8iU)
 
 
-### Building Blocks
 
-11. [Video - Building Blocks Part 1](https://www.youtube.com/watch?v=O86ln81vxrE)
-
-12. [Video - Building Blocks Part 2](https://www.youtube.com/watch?v=4KFER6Xb5Is)
-
-13. [Video - Building Blocks Part 3](https://www.youtube.com/watch?v=zTnABQyOBzk)
-
-14. [Video - Thwaites' Method](https://www.youtube.com/watch?v=FafpT5DwJP0)
 
 
 ### Turbulent Flow
@@ -83,13 +102,7 @@
 
 27. [Video - Airfoils](https://www.youtube.com/watch?v=bni1tH5MSv8&list=PL_EkjePoSGXgmXKjByxaPodoRaOLFPv2W&index=5&pp=iAQB)
 
-### Navier-Stokes Equations
 
-[Navier-Stokes Equations pdf](https://www.sankar.gatech.edu/sites/default/files/2D_Navier_Stokes_Equations_Derivations.pdf)
-
-28. [Video - Exact Solutions to Navier-Stokes Equations](https://www.youtube.com/watch?v=jsBmt4t2Zxo) (July 15, 2024 Watched)
-
-29. [Video - 2D Navier-Stokes Equations](https://www.youtube.com/watch?v=aKiBNr9-tCI&t=1929s) (July 16, 2024 Watched)
 
 
 ### Intro to Flow
