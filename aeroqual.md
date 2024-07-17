@@ -15,15 +15,15 @@
 
 ### Prandtl's Lifting Line Theory
 
-1. [Video - Lifting Line Theory 1](https://www.youtube.com/watch?v=-XFf1P0RpeA&list=PL_EkjePoSGXgmXKjByxaPodoRaOLFPv2W&index=31&pp=iAQB) (July 16, 2024 Watched)
+1. [Video - Lifting Line Theory 1](https://www.youtube.com/watch?v=-XFf1P0RpeA&t=3s) (July 16, 2024 Watched)
 
-2. [Video - Lifting Line Theory 2](https://www.youtube.com/watch?v=nDbpUFR7jec&list=PL_EkjePoSGXgmXKjByxaPodoRaOLFPv2W&index=30&pp=iAQB)
+2. [Video - Lifting Line Theory 2](https://www.youtube.com/watch?v=nDbpUFR7jec)
 
-3. [Video - Lifting Line Theory 3](https://www.youtube.com/watch?v=0zAnErFDlmk&list=PL_EkjePoSGXgmXKjByxaPodoRaOLFPv2W&index=29&pp=iAQB)
+3. [Video - Lifting Line Theory 3](https://www.youtube.com/watch?v=0zAnErFDlmk)
 
-4. [Video - Lifting Line Theory 4](https://www.youtube.com/watch?v=Ryk7KHgdjxI&list=PL_EkjePoSGXgmXKjByxaPodoRaOLFPv2W&index=28&pp=iAQB)
+4. [Video - Lifting Line Theory 4](https://www.youtube.com/watch?v=Ryk7KHgdjxI)
 
-5. [Video - Lifting Line Theory 5](https://www.youtube.com/watch?v=--1X3fK46A4&list=PL_EkjePoSGXgmXKjByxaPodoRaOLFPv2W&index=27&pp=iAQB)
+5. [Video - Lifting Line Theory 5](https://www.youtube.com/watch?v=--1X3fK46A4)
 
 ### Thin Airfoil Theory
 
