@@ -13,7 +13,7 @@
 
 ## Dr. Sankar Youtube Videos
 
-1. [Video - Lifting Line Theory 1](https://www.youtube.com/watch?v=-XFf1P0RpeA&list=PL_EkjePoSGXgmXKjByxaPodoRaOLFPv2W&index=31&pp=iAQB)
+1. [Video - Lifting Line Theory 1](https://www.youtube.com/watch?v=-XFf1P0RpeA&list=PL_EkjePoSGXgmXKjByxaPodoRaOLFPv2W&index=31&pp=iAQB) (July 16, 2024 Watched)
 
 2. [Video - Lifting Line Theory 2](https://www.youtube.com/watch?v=nDbpUFR7jec&list=PL_EkjePoSGXgmXKjByxaPodoRaOLFPv2W&index=30&pp=iAQB)
 
