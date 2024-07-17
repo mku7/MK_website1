@@ -17,13 +17,40 @@
 
 [Navier-Stokes Equations pdf](https://www.sankar.gatech.edu/sites/default/files/2D_Navier_Stokes_Equations_Derivations.pdf)
 
-29. [Video - 2D Navier-Stokes Equations](https://www.youtube.com/watch?v=aKiBNr9-tCI&t=1929s) (July 16, 2024 Watched)
+[Video - 2D Navier-Stokes Equations](https://www.youtube.com/watch?v=aKiBNr9-tCI&t=1929s) (July 16, 2024 Watched)
 
 [Exact Solutions to Navier-Stokes Equations pdf](https://www.sankar.gatech.edu/sites/default/files/Navier_Stokes_Exact_Solutions.pdf)
 
-28. [Video - Exact Solutions to Navier-Stokes Equations](https://www.youtube.com/watch?v=jsBmt4t2Zxo) (July 15, 2024 Watched)
+[Video - Exact Solutions to Navier-Stokes Equations](https://www.youtube.com/watch?v=jsBmt4t2Zxo) (July 15, 2024 Watched)
 
 
+### Full and Linearized Potential Equations
+
+
+### Transonic
+
+[Video - Transonic Flow](https://www.youtube.com/watch?v=uTkk97AETco)
+   
+[Video - Transonic Flow Part II](https://www.youtube.com/watch?v=--SkqTrIWTE&t=328s)
+
+[Video - Subsonic Flow Over Finite Wings v2](https://www.youtube.com/watch?v=sU7f-0HKQ5k)
+
+
+---
+
+### Concepts and Assumptions of Aerodynamics
+
+
+[Video - Streamlines, Pathlines, Vorticity](https://www.youtube.com/watch?v=a83fo_dwx1M&list=PL_EkjePoSGXgmXKjByxaPodoRaOLFPv2W&index=2&pp=iAQB)
+
+[Video - Flow Properties, Governing Equations for a Streamtube](https://www.youtube.com/watch?v=zJC-wbuqbNo&list=PL_EkjePoSGXgmXKjByxaPodoRaOLFPv2W&index=1&pp=iAQB)
+
+
+
+
+---
+
+### Classical Approaches from Incompressible to Supersonic
 
 ### Building Blocks
 
@@ -36,6 +63,19 @@
 13. [Video - Building Blocks Part 3](https://www.youtube.com/watch?v=zTnABQyOBzk)
 
 14. [Video - Thwaites' Method](https://www.youtube.com/watch?v=FafpT5DwJP0)
+
+
+### Thin Airfoil Theory
+
+6. [Video - Thin Airfoil Theory Part 1](https://www.youtube.com/watch?v=oXfeIMBVEyg)
+
+7. [Video - Thin Airfoil Theory Part 2](https://www.youtube.com/watch?v=p7ZIjZcEiKE)
+
+8. [Video - Thin Airfoil Theory Part 3](https://www.youtube.com/watch?v=ZarvNcfQHc4)
+
+9. [Video - Thin Airfoil Theory Part 4](https://www.youtube.com/watch?v=0YXUT3NOtks)
+
+10. [Video - Thin Airfoil Theory Examples](https://www.youtube.com/watch?v=Mobsg5yn8iU)
 
 
 
@@ -53,18 +93,6 @@
 
 5. [Video - Lifting Line Theory 5](https://www.youtube.com/watch?v=--1X3fK46A4)
 
-
-### Thin Airfoil Theory
-
-6. [Video - Thin Airfoil Theory Part 1](https://www.youtube.com/watch?v=oXfeIMBVEyg)
-
-7. [Video - Thin Airfoil Theory Part 2](https://www.youtube.com/watch?v=p7ZIjZcEiKE)
-
-8. [Video - Thin Airfoil Theory Part 3](https://www.youtube.com/watch?v=ZarvNcfQHc4)
-
-9. [Video - Thin Airfoil Theory Part 4](https://www.youtube.com/watch?v=0YXUT3NOtks)
-
-10. [Video - Thin Airfoil Theory Examples](https://www.youtube.com/watch?v=Mobsg5yn8iU)
 
 
 
@@ -105,10 +133,7 @@
 
 
 
-### Intro to Flow
-30. [Video - Streamlines, Pathlines, Vorticity](https://www.youtube.com/watch?v=a83fo_dwx1M&list=PL_EkjePoSGXgmXKjByxaPodoRaOLFPv2W&index=2&pp=iAQB)
 
-31. [Video - Flow Properties, Governing Equations for a Streamtube](https://www.youtube.com/watch?v=zJC-wbuqbNo&list=PL_EkjePoSGXgmXKjByxaPodoRaOLFPv2W&index=1&pp=iAQB)
 
 ###
 32. [Video - Panel Methods](https://www.youtube.com/watch?v=pXpjyYC3yck&list=PL_EkjePoSGXgmXKjByxaPodoRaOLFPv2W&index=32&pp=iAQB)
@@ -124,13 +149,7 @@
     
 37. [Video - Critical Mach Number](https://www.youtube.com/watch?v=pspjhWb2nqM)
 
-### Transonic
 
-38. [Video - Transonic Flow](https://www.youtube.com/watch?v=uTkk97AETco)
-   
-39. [Video - Transonic Flow Part II](https://www.youtube.com/watch?v=--SkqTrIWTE&t=328s)
-
-40. [Video - Subsonic Flow Over Finite Wings v2](https://www.youtube.com/watch?v=sU7f-0HKQ5k)
 
 ### Supersonic and Hypersonic
 
