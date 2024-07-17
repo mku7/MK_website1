@@ -29,11 +29,11 @@
 
 ### Transonic
 
-[Video - Transonic Flow](https://www.youtube.com/watch?v=uTkk97AETco)
+* [Video - Transonic Flow](https://www.youtube.com/watch?v=uTkk97AETco)
    
-[Video - Transonic Flow Part II](https://www.youtube.com/watch?v=--SkqTrIWTE&t=328s)
+* [Video - Transonic Flow Part II](https://www.youtube.com/watch?v=--SkqTrIWTE&t=328s)
 
-[Video - Subsonic Flow Over Finite Wings v2](https://www.youtube.com/watch?v=sU7f-0HKQ5k)
+* [Video - Subsonic Flow Over Finite Wings v2](https://www.youtube.com/watch?v=sU7f-0HKQ5k)
 
 
 ---
@@ -41,9 +41,9 @@
 ### Concepts and Assumptions of Aerodynamics
 
 
-[Video - Streamlines, Pathlines, Vorticity](https://www.youtube.com/watch?v=a83fo_dwx1M&list=PL_EkjePoSGXgmXKjByxaPodoRaOLFPv2W&index=2&pp=iAQB)
+* [Video - Streamlines, Pathlines, Vorticity](https://www.youtube.com/watch?v=a83fo_dwx1M&list=PL_EkjePoSGXgmXKjByxaPodoRaOLFPv2W&index=2&pp=iAQB)
 
-[Video - Flow Properties, Governing Equations for a Streamtube](https://www.youtube.com/watch?v=zJC-wbuqbNo&list=PL_EkjePoSGXgmXKjByxaPodoRaOLFPv2W&index=1&pp=iAQB)
+* [Video - Flow Properties, Governing Equations for a Streamtube](https://www.youtube.com/watch?v=zJC-wbuqbNo&list=PL_EkjePoSGXgmXKjByxaPodoRaOLFPv2W&index=1&pp=iAQB)
 
 
 
@@ -56,26 +56,26 @@
 
 [Building Blocks pdf](http://www.sankar.gatech.edu/sites/default/files/Building_Blocks.pdf)
 
-11. [Video - Building Blocks Part 1](https://www.youtube.com/watch?v=O86ln81vxrE)
+* [Video - Building Blocks Part 1](https://www.youtube.com/watch?v=O86ln81vxrE)
 
-12. [Video - Building Blocks Part 2](https://www.youtube.com/watch?v=4KFER6Xb5Is)
+* [Video - Building Blocks Part 2](https://www.youtube.com/watch?v=4KFER6Xb5Is)
 
-13. [Video - Building Blocks Part 3](https://www.youtube.com/watch?v=zTnABQyOBzk)
+* [Video - Building Blocks Part 3](https://www.youtube.com/watch?v=zTnABQyOBzk)
 
-14. [Video - Thwaites' Method](https://www.youtube.com/watch?v=FafpT5DwJP0)
+* [Video - Thwaites' Method](https://www.youtube.com/watch?v=FafpT5DwJP0)
 
 
 ### Thin Airfoil Theory
 
-6. [Video - Thin Airfoil Theory Part 1](https://www.youtube.com/watch?v=oXfeIMBVEyg)
+* [Video - Thin Airfoil Theory Part 1](https://www.youtube.com/watch?v=oXfeIMBVEyg)
 
-7. [Video - Thin Airfoil Theory Part 2](https://www.youtube.com/watch?v=p7ZIjZcEiKE)
+* [Video - Thin Airfoil Theory Part 2](https://www.youtube.com/watch?v=p7ZIjZcEiKE)
 
-8. [Video - Thin Airfoil Theory Part 3](https://www.youtube.com/watch?v=ZarvNcfQHc4)
+* [Video - Thin Airfoil Theory Part 3](https://www.youtube.com/watch?v=ZarvNcfQHc4)
 
-9. [Video - Thin Airfoil Theory Part 4](https://www.youtube.com/watch?v=0YXUT3NOtks)
+* [Video - Thin Airfoil Theory Part 4](https://www.youtube.com/watch?v=0YXUT3NOtks)
 
-10. [Video - Thin Airfoil Theory Examples](https://www.youtube.com/watch?v=Mobsg5yn8iU)
+* [Video - Thin Airfoil Theory Examples](https://www.youtube.com/watch?v=Mobsg5yn8iU)
 
 
 
