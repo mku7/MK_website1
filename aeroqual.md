@@ -15,6 +15,8 @@
 
 ### Prandtl's Lifting Line Theory
 
+ [Lifting Line Theory pdf](https://www.sankar.gatech.edu/sites/default/files/Lifting_Line_Theory.pdf)
+
 1. [Video - Lifting Line Theory 1](https://www.youtube.com/watch?v=-XFf1P0RpeA&t=3s) (July 16, 2024 Watched)
 
 2. [Video - Lifting Line Theory 2](https://www.youtube.com/watch?v=nDbpUFR7jec) (July 16, 2024 Watched)
