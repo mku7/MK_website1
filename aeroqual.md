@@ -83,9 +83,9 @@
 
 ### Navier-Stokes Equations
 
-28. [Video - Exact Solutions to Navier-Stokes Equations](https://www.youtube.com/watch?v=jsBmt4t2Zxo&list=PL_EkjePoSGXgmXKjByxaPodoRaOLFPv2W&index=4&pp=iAQB) (July 15, 2024 Watched)
+28. [Video - Exact Solutions to Navier-Stokes Equations](https://www.youtube.com/watch?v=jsBmt4t2Zxo) (July 15, 2024 Watched)
 
-29. [Video - 2D Navier-Stokes Equations](https://www.youtube.com/watch?v=aKiBNr9-tCI&list=PL_EkjePoSGXgmXKjByxaPodoRaOLFPv2W&index=3&pp=iAQB)
+29. [Video - 2D Navier-Stokes Equations](https://www.youtube.com/watch?v=aKiBNr9-tCI&t=1929s) (July 16, 2024 Watched)
 
 ### Intro to Flow
 30. [Video - Streamlines, Pathlines, Vorticity](https://www.youtube.com/watch?v=a83fo_dwx1M&list=PL_EkjePoSGXgmXKjByxaPodoRaOLFPv2W&index=2&pp=iAQB)
