@@ -17,7 +17,7 @@
 
 1. [Video - Lifting Line Theory 1](https://www.youtube.com/watch?v=-XFf1P0RpeA&t=3s) (July 16, 2024 Watched)
 
-2. [Video - Lifting Line Theory 2](https://www.youtube.com/watch?v=nDbpUFR7jec)
+2. [Video - Lifting Line Theory 2](https://www.youtube.com/watch?v=nDbpUFR7jec) (July 16, 2024 Watched)
 
 3. [Video - Lifting Line Theory 3](https://www.youtube.com/watch?v=0zAnErFDlmk)
 
