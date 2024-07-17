@@ -40,13 +40,13 @@
 
 ### Building Blocks
 
-11. [Video - Building Blocks Part 1](https://www.youtube.com/watch?v=O86ln81vxrE&list=PL_EkjePoSGXgmXKjByxaPodoRaOLFPv2W&index=21&pp=iAQB)
+11. [Video - Building Blocks Part 1](https://www.youtube.com/watch?v=O86ln81vxrE)
 
-12. [Video - Building Blocks Part 2](https://www.youtube.com/watch?v=4KFER6Xb5Is&list=PL_EkjePoSGXgmXKjByxaPodoRaOLFPv2W&index=20&pp=iAQB)
+12. [Video - Building Blocks Part 2](https://www.youtube.com/watch?v=4KFER6Xb5Is)
 
-13. [Video - Building Blocks Part 3](https://www.youtube.com/watch?v=zTnABQyOBzk&list=PL_EkjePoSGXgmXKjByxaPodoRaOLFPv2W&index=19&pp=iAQB)
+13. [Video - Building Blocks Part 3](https://www.youtube.com/watch?v=zTnABQyOBzk)
 
-14. [Video - Thwaites' Method](https://www.youtube.com/watch?v=FafpT5DwJP0&list=PL_EkjePoSGXgmXKjByxaPodoRaOLFPv2W&index=18&pp=iAQB)
+14. [Video - Thwaites' Method](https://www.youtube.com/watch?v=FafpT5DwJP0)
 
 
 ### Turbulent Flow
@@ -62,6 +62,8 @@
 
 19. [Video - Worked Out Examples](https://www.youtube.com/watch?v=UOiwy0ZPOGw&list=PL_EkjePoSGXgmXKjByxaPodoRaOLFPv2W&index=13&pp=iAQB)
 
+### Boundary Layer Theory
+
 20. [Video - Boundary Layer Theory Video 1](https://www.youtube.com/watch?v=rk5DGgeOIbE&list=PL_EkjePoSGXgmXKjByxaPodoRaOLFPv2W&index=8&pp=iAQB)
 
 21. [Video - Boundary Layer Theory Video 2](https://www.youtube.com/watch?v=njcSvmQ81jE&list=PL_EkjePoSGXgmXKjByxaPodoRaOLFPv2W&index=9&pp=iAQB)
@@ -72,24 +74,30 @@
 
 24. [Video - Boundary Layer Theory Video 5](https://www.youtube.com/watch?v=hnxltkh0gcI&list=PL_EkjePoSGXgmXKjByxaPodoRaOLFPv2W&index=12&pp=iAQB)
 
+###
 25. [Video - Aerodynamic Forces and Moments](https://www.youtube.com/watch?v=RopA2teL6_0&list=PL_EkjePoSGXgmXKjByxaPodoRaOLFPv2W&index=7&pp=iAQB)
 
 26. [Video - NACA Airfoil Numbering Convention](https://www.youtube.com/watch?v=dGKupAkyN0M&list=PL_EkjePoSGXgmXKjByxaPodoRaOLFPv2W&index=6&pp=iAQB)
 
 27. [Video - Airfoils](https://www.youtube.com/watch?v=bni1tH5MSv8&list=PL_EkjePoSGXgmXKjByxaPodoRaOLFPv2W&index=5&pp=iAQB)
 
+### Navier-Stokes Equations
+
 28. [Video - Exact Solutions to Navier-Stokes Equations](https://www.youtube.com/watch?v=jsBmt4t2Zxo&list=PL_EkjePoSGXgmXKjByxaPodoRaOLFPv2W&index=4&pp=iAQB) (July 15, 2024 Watched)
 
 29. [Video - 2D Navier-Stokes Equations](https://www.youtube.com/watch?v=aKiBNr9-tCI&list=PL_EkjePoSGXgmXKjByxaPodoRaOLFPv2W&index=3&pp=iAQB)
 
+### Intro to Flow
 30. [Video - Streamlines, Pathlines, Vorticity](https://www.youtube.com/watch?v=a83fo_dwx1M&list=PL_EkjePoSGXgmXKjByxaPodoRaOLFPv2W&index=2&pp=iAQB)
 
 31. [Video - Flow Properties, Governing Equations for a Streamtube](https://www.youtube.com/watch?v=zJC-wbuqbNo&list=PL_EkjePoSGXgmXKjByxaPodoRaOLFPv2W&index=1&pp=iAQB)
 
+###
 32. [Video - Panel Methods](https://www.youtube.com/watch?v=pXpjyYC3yck&list=PL_EkjePoSGXgmXKjByxaPodoRaOLFPv2W&index=32&pp=iAQB)
 
 33. [Video - Reynolds Analogy](https://www.youtube.com/watch?v=_zg7qn58EHU)
-    
+
+### Compressible Flow
 34. [Video - Compressible Potential Flow Derivation Video 1](https://www.youtube.com/watch?v=XBH5Fnox-Ak&t=895s)
     
 35. [Video - Compressible Governing Equations Video 2](https://www.youtube.com/watch?v=DUT0n8sUOIM)
@@ -98,11 +106,15 @@
     
 37. [Video - Critical Mach Number](https://www.youtube.com/watch?v=pspjhWb2nqM)
 
+### Transonic
+
 38. [Video - Transonic Flow](https://www.youtube.com/watch?v=uTkk97AETco)
    
 39. [Video - Transonic Flow Part II](https://www.youtube.com/watch?v=--SkqTrIWTE&t=328s)
 
 40. [Video - Subsonic Flow Over Finite Wings v2](https://www.youtube.com/watch?v=sU7f-0HKQ5k)
+
+### Supersonic and Hypersonic
 
 41. [Video - 2D Supersonic Flow over Thin Airfoils](https://www.youtube.com/watch?v=qFcg3qoKbHk)
 
