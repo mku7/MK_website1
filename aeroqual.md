@@ -83,15 +83,15 @@
 
  [Lifting Line Theory pdf](https://www.sankar.gatech.edu/sites/default/files/Lifting_Line_Theory.pdf)
 
-1. [Video - Lifting Line Theory 1](https://www.youtube.com/watch?v=-XFf1P0RpeA&t=3s) (July 16, 2024 Watched)
+* [Video - Lifting Line Theory 1](https://www.youtube.com/watch?v=-XFf1P0RpeA&t=3s) (July 16, 2024 Watched)
 
-2. [Video - Lifting Line Theory 2](https://www.youtube.com/watch?v=nDbpUFR7jec) (July 16, 2024 Watched)
+* [Video - Lifting Line Theory 2](https://www.youtube.com/watch?v=nDbpUFR7jec) (July 16, 2024 Watched)
 
-3. [Video - Lifting Line Theory 3](https://www.youtube.com/watch?v=0zAnErFDlmk)
+* [Video - Lifting Line Theory 3](https://www.youtube.com/watch?v=0zAnErFDlmk) (July 17, 2024 Watched)
 
-4. [Video - Lifting Line Theory 4](https://www.youtube.com/watch?v=Ryk7KHgdjxI)
+* [Video - Lifting Line Theory 4](https://www.youtube.com/watch?v=Ryk7KHgdjxI) (July 17, 2024 Watched)
 
-5. [Video - Lifting Line Theory 5](https://www.youtube.com/watch?v=--1X3fK46A4)
+* [Video - Lifting Line Theory 5](https://www.youtube.com/watch?v=--1X3fK46A4)
 
 
 
