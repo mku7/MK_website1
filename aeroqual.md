@@ -81,6 +81,8 @@
 
 ### Prandtl's Lifting Line Theory
 
+#### Downwash, Lift, Induced Drag
+
  [Lifting Line Theory pdf](https://www.sankar.gatech.edu/sites/default/files/Lifting_Line_Theory.pdf)
 
 * [Video - Lifting Line Theory 1](https://www.youtube.com/watch?v=-XFf1P0RpeA&t=3s) (July 16, 2024 Watched)
