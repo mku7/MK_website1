@@ -56,6 +56,12 @@ dy/dt = v(x,y,z,t)
 
 dz/dt = w(x,y,z,t)
 
+### Angular Velocity
+
+Omega_vec = 1/2*(del cross V_vec)
+
+Vorticity_vec = 2*Omega_vec
+
 
 * [Video - Flow Properties, Governing Equations for a Streamtube](https://www.youtube.com/watch?v=zJC-wbuqbNo&list=PL_EkjePoSGXgmXKjByxaPodoRaOLFPv2W&index=1&pp=iAQB)
 
