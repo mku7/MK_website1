@@ -43,6 +43,10 @@
 
 * [Video - Streamlines, Pathlines, Vorticity](https://www.youtube.com/watch?v=a83fo_dwx1M&list=PL_EkjePoSGXgmXKjByxaPodoRaOLFPv2W&index=2&pp=iAQB)
 
+#### Streamline
+V cross ds = 0
+
+
 * [Video - Flow Properties, Governing Equations for a Streamtube](https://www.youtube.com/watch?v=zJC-wbuqbNo&list=PL_EkjePoSGXgmXKjByxaPodoRaOLFPv2W&index=1&pp=iAQB)
 
 
