@@ -58,7 +58,7 @@ dz/dt = w(x,y,z,t)
 
 ### Angular Velocity
 
-Omega_vec = 1/2*(del cross V_vec)
+Omega_vec = 1/2*(del cross V_vec) = 1/2 curl of veloctiy
 
 Vorticity_vec = 2*Omega_vec
 
