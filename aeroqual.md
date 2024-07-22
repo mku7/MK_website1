@@ -43,8 +43,18 @@
 
 * [Video - Streamlines, Pathlines, Vorticity](https://www.youtube.com/watch?v=a83fo_dwx1M&list=PL_EkjePoSGXgmXKjByxaPodoRaOLFPv2W&index=2&pp=iAQB)
 
-#### Streamline
+#### Streamline (Instantaneous Snapshot of Particles)
 V cross ds = 0
+
+u/dx = v/dy = w/dz
+
+### Pathline/Streakline (Time-Elapsed Image)
+
+du/dt = u(x,y,z,t)
+
+dv/dt = v(x,y,z,t)
+
+dw/dt = w(x,y,z,t)
 
 
 * [Video - Flow Properties, Governing Equations for a Streamtube](https://www.youtube.com/watch?v=zJC-wbuqbNo&list=PL_EkjePoSGXgmXKjByxaPodoRaOLFPv2W&index=1&pp=iAQB)
