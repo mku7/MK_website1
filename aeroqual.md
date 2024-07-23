@@ -66,6 +66,8 @@ Angular velocity = 1/2 curl of velocity
 
 $$ \vec{\Omega} = \frac{1}{2} \vec{\nabla} \times \vec{V}$$
 
+$$\vec{\Omega} = \left[ \left(\frac{\partial v}{\partial x}-\frac{\partial u}{\partial y}\right)\vec{k} + \left(\frac{\partial w}{\partial y}-\frac{\partial v}{\partial z}\right)\vec{i} + \left(\frac{\partial u}{\partial z}-\frac{\partial w}{\partial x}\right)\vec{j} \right] $$
+
 Vorticity = twice angular velocity
 
 $$\vec{\zeta} = 2\vec{\Omega} $$
