@@ -125,7 +125,9 @@ $$\rho V dV + dP = 0$$
 
 ### Bernoulli's Equation (Euler Equation + Incompressible)
 
-$$P_s + 1/2 \rho V^2 = Constant$$
+Steady, Inviscid, Incompressible, No Body Forces
+
+$$P_s + \frac{1}{2} \rho V^2 = Constant = P_0$$
 
 ---
 
