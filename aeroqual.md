@@ -44,23 +44,31 @@
 * [Video - Streamlines, Pathlines, Vorticity](https://www.youtube.com/watch?v=a83fo_dwx1M&list=PL_EkjePoSGXgmXKjByxaPodoRaOLFPv2W&index=2&pp=iAQB)
 
 #### Streamline (Instantaneous Snapshot of Particles)
-V cross ds = 0
 
-u/dx = v/dy = w/dz
+$$\vec{V} \times d\vec{s} = 0$$
+
+$$\frac{u}{dx} = \frac{v}{dy} = \frac{w}{dz}$$
 
 ### Pathline/Streakline (Time-Elapsed Image)
 
-dx/dt = u(x,y,z,t)
 
-dy/dt = v(x,y,z,t)
+$$\dot{x} = \frac{dx}{dt} = u(x,y,z,t)$$
 
-dz/dt = w(x,y,z,t)
+$$\dot{y} = \frac{dy}{dt} = v(x,y,z,t)$$
+
+$$\dot{z} = \frac{dz}{dt} = w(x,y,z,t)$$
+
 
 ### Angular Velocity
 
-Omega_vec = 1/2*(del cross V_vec) = 1/2 curl of veloctiy
 
-Vorticity_vec = 2*Omega_vec
+Angular velocity = 1/2 curl of velocity
+
+$$ \vec{\Omega} = \frac{1}{2} \vec{\nabla} \times \vec{V}$$
+
+Vorticity = twice angular velocity
+
+$$\vec{\zeta} = 2\vec{\Omega} $$
 
 
 * [Video - Flow Properties, Governing Equations for a Streamtube](https://www.youtube.com/watch?v=zJC-wbuqbNo&list=PL_EkjePoSGXgmXKjByxaPodoRaOLFPv2W&index=1&pp=iAQB)
