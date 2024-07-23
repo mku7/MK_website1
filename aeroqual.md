@@ -90,6 +90,17 @@ $$\vec{\nabla} \times \vec{V} = 0$$
 
 * [Video - Flow Properties, Governing Equations for a Streamtube](https://www.youtube.com/watch?v=zJC-wbuqbNo&list=PL_EkjePoSGXgmXKjByxaPodoRaOLFPv2W&index=1&pp=iAQB)
 
+### Knudsen Number
+
+$$Kn=\frac{\lambda}{L}$$
+
+$\lambda$: mean free path
+
+Low altitutde, small Knudsen Number can consider air as a continuum (using avg properties)
+
+### Equation of State
+
+$$P=\rho R T$$
 
 
 
