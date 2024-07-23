@@ -19,6 +19,8 @@
 
 * [Video - 2D Navier-Stokes Equations](https://www.youtube.com/watch?v=aKiBNr9-tCI&t=1929s) (July 16, 2024 Watched)
 
+Keep pressure and viscous forces, neglecting body forces (gravity, electric, magnetic)
+
 [Exact Solutions to Navier-Stokes Equations pdf](https://www.sankar.gatech.edu/sites/default/files/Navier_Stokes_Exact_Solutions.pdf)
 
 * [Video - Exact Solutions to Navier-Stokes Equations](https://www.youtube.com/watch?v=jsBmt4t2Zxo) (July 15, 2024 Watched)
