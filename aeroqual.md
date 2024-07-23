@@ -102,7 +102,15 @@ Low altitutde, small Knudsen Number can consider air as a continuum (using avg p
 
 $$P=\rho R T$$
 
+ideal gases, thermally and calorically perfect gases
 
+### Important Properties of Fluid
+
+5 DOF: 3 translation and 2 rotation (diatomic molecules)
+
+$$\rho, P, T, u, v, w$$
+
+Temperature is a measure of random motion of the particles
 
 ---
 
