@@ -75,9 +75,13 @@ $$\vec{\zeta} = 2\vec{\Omega} $$
 
 ### Conservation of Mass
 
+Divergence of Velocity
+
 $$\vec{\nabla} \cdot \vec{V} = 0$$
 
 ### Irrotationality
+
+Curl of Velocity = Vorticity
 
 $$\vec{\nabla} \times \vec{V} = 0$$
 
