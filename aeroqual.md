@@ -73,6 +73,15 @@ Vorticity = twice angular velocity
 $$\vec{\zeta} = 2\vec{\Omega} $$
 
 
+### Conservation of Mass
+
+$$\vec{\nabla} \cdot \vec{V} = 0$$
+
+### Irrotationality
+
+$$\vec{\nabla} \times \vec{V} = 0$$
+
+
 * [Video - Flow Properties, Governing Equations for a Streamtube](https://www.youtube.com/watch?v=zJC-wbuqbNo&list=PL_EkjePoSGXgmXKjByxaPodoRaOLFPv2W&index=1&pp=iAQB)
 
 
