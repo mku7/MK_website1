@@ -45,6 +45,8 @@
 
 #### Streamline (Instantaneous Snapshot of Particles)
 
+Velocity is in the same direction as the path, so cross product is equal to zero
+
 $$\vec{V} \times d\vec{s} = 0$$
 
 $$\frac{u}{dx} = \frac{v}{dy} = \frac{w}{dz}$$
