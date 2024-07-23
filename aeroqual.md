@@ -129,6 +129,8 @@ Steady, Inviscid, Incompressible, No Body Forces
 
 $$P_s + \frac{1}{2} \rho V^2 = Constant = P_0$$
 
+$P_0$ stagnation pressure
+
 ---
 
 ### Classical Approaches from Incompressible to Supersonic
