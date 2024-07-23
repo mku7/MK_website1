@@ -73,7 +73,7 @@ Vorticity = twice angular velocity = curl of velocity
 $$\vec{\zeta} = 2\vec{\Omega} = \vec{\nabla} \times \vec{V}$$
 
 
-### Conservation of Mass
+### Conservation of Mass (Incompressible)
 
 Divergence of Velocity
 
