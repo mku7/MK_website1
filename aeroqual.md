@@ -41,7 +41,7 @@
 ### Concepts and Assumptions of Aerodynamics
 
 
-* [Video - Streamlines, Pathlines, Vorticity](https://www.youtube.com/watch?v=a83fo_dwx1M&list=PL_EkjePoSGXgmXKjByxaPodoRaOLFPv2W&index=2&pp=iAQB)
+* [Video - Streamlines, Pathlines, Vorticity](https://www.youtube.com/watch?v=a83fo_dwx1M&list=PL_EkjePoSGXgmXKjByxaPodoRaOLFPv2W&index=2&pp=iAQB) (July 22, 2024 Watched)
 
 #### Streamline (Instantaneous Snapshot of Particles)
 
