@@ -116,6 +116,17 @@ $$\rho, P, T, u, v, w$$
 
 Temperature is a measure of random motion of the particles
 
+### Euler Equation
+
+Steady, Inviscid, No Body Forces
+
+$$\rho V dV + dP = 0$$
+
+
+### Bernoulli's Equation (Euler Equation + Incompressible)
+
+$$P_s + 1/2 \rho V^2 = Constant$$
+
 ---
 
 ### Classical Approaches from Incompressible to Supersonic
