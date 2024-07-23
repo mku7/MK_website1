@@ -51,6 +51,8 @@ $$\vec{V} \times d\vec{s} = 0$$
 
 $$\frac{u}{dx} = \frac{v}{dy} = \frac{w}{dz}$$
 
+Nothing cannot cross normal to the streamline
+
 ### Pathline/Streakline (Time-Elapsed Image)
 
 
