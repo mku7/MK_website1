@@ -151,6 +151,9 @@ $$\vec{V}=\nabla \phi$$
 
 $$\nabla^2\phi = 0$$
 
+curl of gradient is equal to zero
+
+$$\vec{\nabla}\times\vec{\nabla}\phi = 0$$
 
 ### Stream Function $\psi$
 
