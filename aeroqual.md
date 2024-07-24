@@ -141,6 +141,10 @@ $P_0$ stagnation pressure
 
 * [Video - Building Blocks Part 1](https://www.youtube.com/watch?v=O86ln81vxrE)
 
+#### Potential Flow
+
+Irrotational, Inviscid, Incompressible, Steady
+
 * [Video - Building Blocks Part 2](https://www.youtube.com/watch?v=4KFER6Xb5Is)
 
 * [Video - Building Blocks Part 3](https://www.youtube.com/watch?v=zTnABQyOBzk)
