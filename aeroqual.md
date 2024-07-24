@@ -141,9 +141,23 @@ $P_0$ stagnation pressure
 
 * [Video - Building Blocks Part 1](https://www.youtube.com/watch?v=O86ln81vxrE)
 
-#### Potential Flow
+### Potential Flow
 
-Irrotational, Inviscid, Incompressible, Steady
+Irrotational, Inviscid, Incompressible, Steady, No Body Forces
+
+### Velocity Potential $\phi$
+
+$$\vec{V}=\nabla \phi$$
+
+$$\nabla^2\phi = 0$$
+
+
+### Stream Function $\psi$
+
+$$u=\frac{\partial \psi}{\partial y}$$
+
+$$v=-\frac{\partial \psi}{\partial x}$$
+
 
 * [Video - Building Blocks Part 2](https://www.youtube.com/watch?v=4KFER6Xb5Is)
 
