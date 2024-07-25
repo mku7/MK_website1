@@ -139,7 +139,7 @@ $P_0$ stagnation pressure
 
 [Building Blocks pdf](http://www.sankar.gatech.edu/sites/default/files/Building_Blocks.pdf)
 
-* [Video - Building Blocks Part 1](https://www.youtube.com/watch?v=O86ln81vxrE)
+* [Video - Building Blocks Part 1](https://www.youtube.com/watch?v=O86ln81vxrE) (July 24, 2024 Watched)
 
 ### Potential Flow
 
@@ -162,7 +162,19 @@ $$u=\frac{\partial \psi}{\partial y}$$
 $$v=-\frac{\partial \psi}{\partial x}$$
 
 
-* [Video - Building Blocks Part 2](https://www.youtube.com/watch?v=4KFER6Xb5Is)
+* [Video - Building Blocks Part 2](https://www.youtube.com/watch?v=4KFER6Xb5Is) (July 25, 2024 Watched)
+
+### Stokes' Theorem
+
+$$\Gamma = \oint\limits_{C}\vec{V}\cdot d\vec{s} = \oiint\limits_{S}\vec{\xi}\cdot d\vec{A}$$
+
+### Source/Sink
+
+$$\phi_{source} = \frac{Q}{2\pi r} \ln(r)$$
+
+### Uniform Flow
+
+$$\phi_{uniform flow} = ux + vy$$
 
 * [Video - Building Blocks Part 3](https://www.youtube.com/watch?v=zTnABQyOBzk)
 
