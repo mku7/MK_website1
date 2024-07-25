@@ -92,7 +92,7 @@ Curl of Velocity = Vorticity
 $$\vec{\nabla} \times \vec{V} = 0$$
 
 
-* [Video - Flow Properties, Governing Equations for a Streamtube](https://www.youtube.com/watch?v=zJC-wbuqbNo&list=PL_EkjePoSGXgmXKjByxaPodoRaOLFPv2W&index=1&pp=iAQB)
+* [Video - Flow Properties, Governing Equations for a Streamtube](https://www.youtube.com/watch?v=zJC-wbuqbNo&list=PL_EkjePoSGXgmXKjByxaPodoRaOLFPv2W&index=1&pp=iAQB) (July 24, 2024 Watched)
 
 ### Knudsen Number
 
