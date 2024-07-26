@@ -166,7 +166,7 @@ $$v=-\frac{\partial \psi}{\partial x}$$
 
 ### Stokes' Theorem
 
-$$\Gamma = \oint\limits_{C}\vec{V}\cdot d\vec{s} = \oiint\limits_{S}\vec{\xi}\cdot d\vec{A}$$
+$$\Gamma = \oint\limits_{C}\vec{V}\cdot d\vec{s} = \oiint\vec{\xi}\cdot d\vec{A}$$
 
 ### Source/Sink
 
