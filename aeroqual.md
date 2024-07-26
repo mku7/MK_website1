@@ -183,9 +183,19 @@ $$\phi_{uniform flow} = ux + vy$$
 
 ### Thin Airfoil Theory
 
-* [Video - Thin Airfoil Theory Part 1](https://www.youtube.com/watch?v=oXfeIMBVEyg)
+* [Video - Thin Airfoil Theory Part 1](https://www.youtube.com/watch?v=oXfeIMBVEyg) (July 25, 2024 Watched)
 
-* [Video - Thin Airfoil Theory Part 2](https://www.youtube.com/watch?v=p7ZIjZcEiKE)
+* [Video - Thin Airfoil Theory Part 2](https://www.youtube.com/watch?v=p7ZIjZcEiKE) (July 26, 2024 Watched)
+
+- Neglect thickness (symmetric about camber line)
+- Small camber (2-4% chord)
+- Small angle of attack (negligible disturbance in freestream direction)
+- Flow tangency (rotated body slope = new flow velocity slope)
+- Airfoil represented by a camber line then rotated to the wind tunnel coordinate system and projected to the wind tunnel x-axis (parallel to freestream velocity)
+
+$$\frac{dz}{dx} = \frac{w}{u}$$
+
+$$d\Gamma = \gamma(\xi) d\xi$$
 
 * [Video - Thin Airfoil Theory Part 3](https://www.youtube.com/watch?v=ZarvNcfQHc4)
 
