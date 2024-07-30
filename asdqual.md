@@ -107,6 +107,10 @@ Videos by Dr. Riso
 
 ## Beams in Axial Vibration
 
+<p align="center">
+<img src="Beam_Axial.png" alt="Beam_Axial" style="width:50%; height:50%"/>
+</p>
+
 $$E = \frac{\sigma}{\epsilon} = \frac{\frac{F}{A}}{\frac{\partial u}{\partial x}} = \frac{\frac{N(x,t)}{A}}{\frac{\partial u(x,t)}{\partial x}}$$
 
 $$N(x,t) = EA \frac{\partial u(x,t)}{\partial x}$$
