@@ -93,3 +93,31 @@ Videos by Dr. Riso
 
 
 <img src="StructuralDynQualTopics.png" alt="Structural Dynamics Qual Topics" style="width:50%; height:50%"/>
+
+---
+
+# Continuous Systems
+
+## Derive Equations of Motion
+
+1) Draw free body diagram of a small section of the beam
+2) Sum Forces/Moments and set equal to mass times acceleration
+3) Derive the constitutive law using linear relation between stress and strain
+4) Plug constitutive law into equation of motion then simplify
+
+## Beams in Axial Vibration
+
+$$E = \frac{\sigma}{\epsilon} = \frac{\frac{F}{A}}{\frac{\partial u}{\partial x}} = \frac{\frac{N(x,t)}{A}}{\frac{\partial u(x,t)}{\partial x}}$$
+
+$$N(x,t) = EA \frac{\partial u(x,t)}{\partial x}$$
+
+$$\rho = \frac{m}{vol}$$
+
+$$\rho*vol = m$$
+
+$$dm = \rho* A * dx$$
+
+$$-N(x,t) + N(x,t) + \frac{\partial N(x,t)}{\partial x} dx + p(x,t) dx = \rho A dx \frac{\partial ^2 u(x,t)}{\partial t^2} $$
+
+$$\frac{\partial N(x,t)}{\partial x} + p(x,t) = \rho A \frac{\partial ^2 u(x,t)}{\partial t^2}$$
+
