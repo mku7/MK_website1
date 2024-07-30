@@ -125,3 +125,11 @@ $$-N(x,t) + N(x,t) + \frac{\partial N(x,t)}{\partial x} dx + p(x,t) dx = \rho A 
 
 $$\frac{\partial N(x,t)}{\partial x} + p(x,t) = \rho A \frac{\partial ^2 u(x,t)}{\partial t^2}$$
 
+
+
+## Beams in Torsion
+
+<p align="center">
+<img src="Beam_Torsion.png" alt="Beam_Torsion" style="width:50%; height:50%"/>
+</p>
+
