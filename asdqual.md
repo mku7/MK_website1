@@ -113,17 +113,30 @@ Videos by Dr. Riso
 
 $$E = \frac{\sigma}{\epsilon} = \frac{\frac{F}{A}}{\frac{\partial u}{\partial x}} = \frac{\frac{N(x,t)}{A}}{\frac{\partial u(x,t)}{\partial x}}$$
 
-$$N(x,t) = EA \frac{\partial u(x,t)}{\partial x}$$
+$$N(x,t) = EA(x) \frac{\partial u(x,t)}{\partial x}$$
 
 $$\rho = \frac{m}{vol}$$
 
 $$\rho*vol = m$$
 
+m: mass per unit length
+
 $$dm = \rho* A * dx$$
 
-$$-N(x,t) + N(x,t) + \frac{\partial N(x,t)}{\partial x} dx + p(x,t) dx = \rho A dx \frac{\partial ^2 u(x,t)}{\partial t^2} $$
+$$-N(x,t) + N(x,t) + \frac{\partial N(x,t)}{\partial x} dx + p(x,t) dx = \rho A(x) dx \frac{\partial ^2 u(x,t)}{\partial t^2} $$
 
-$$\frac{\partial N(x,t)}{\partial x} + p(x,t) = \rho A \frac{\partial ^2 u(x,t)}{\partial t^2}$$
+
+$$\frac{\partial N(x,t)}{\partial x} + p(x,t) = \rho A(x) \frac{\partial ^2 u(x,t)}{\partial t^2}$$
+
+Governing Equation:
+
+$$\frac{\partial}{\partial x} \left(EA(x) \frac{\partial u(x,t)}{\partial x}\right) + p(x,t) = \rho A(x) \frac{\partial ^2 u(x,t)}{\partial t^2}$$
+
+For constant cross-section, uniform properties:
+
+$$EA\frac{\partial ^2 u(x,t)}{\partial x^2} + p(x,t) = \rho A \frac{\partial ^2 u(x,t)}{\partial t^2}$$
+
+
 
 
 
@@ -132,4 +145,24 @@ $$\frac{\partial N(x,t)}{\partial x} + p(x,t) = \rho A \frac{\partial ^2 u(x,t)}
 <p align="center">
 <img src="Beam_Torsion.png" alt="Beam_Torsion" style="width:50%; height:50%"/>
 </p>
+
+$I_\rho$: polar moment of inertia
+
+Polar moment of inertia for circular cross-section:
+
+$$T(x,t) = GJ(x) \frac{\partial \theta(x,t)}{\partial x}$$
+
+$$I_\rho = \int_A r^2 dA = \int_0^R r^2 (2\pi r) dr = 2\pi \int_0^R r^3 dr = 2\pi \frac{R^4}{4} = \frac{\pi R^4}{2}$$
+
+$$\frac{\partial T(x,t)}{\partial x} + m(x,t) = \rho I_\rho (x) \frac{\partial ^2 \theta(x,t)}{\partial t^2}$$
+
+Governing Equation:
+
+$$\frac{\partial GJ(x) \frac{\partial \theta(x,t)}{\partial x}}{\partial x} + m(x,t) = \rho I_\rho (x) \frac{\partial ^2 \theta(x,t)}{\partial t^2}$$
+
+For constant cross-section, uniform properties:
+
+$$GJ \frac{\partial^2 \theta(x,t)}{\partial x^2} + m(x,t) = \rho I_\rho \frac{\partial ^2 \theta(x,t)}{\partial t^2}$$
+
+
 
