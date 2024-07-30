@@ -248,7 +248,7 @@ $$d\Gamma = \gamma(\xi) d\xi$$
 
 $$\frac{\partial u}{\partial x} + \frac{\partial v}{\partial y} = 0$$
 
-$$u\frac{\partial u}{\partial x} + v \frac{\partial u}{\partial y} + \frac{1}{\rho} \frac{\partial P}{\partial x} = \nu \frac{\partila^2 u}{\partial y^2}$$
+$$u\frac{\partial u}{\partial x} + v \frac{\partial u}{\partial y} + \frac{1}{\rho} \frac{\partial P}{\partial x} = \nu \frac{\partial^2 u}{\partial y^2}$$
 
 $$\frac{1}{\rho}\frac{\partial P}{\partial y} = 0$$
 
