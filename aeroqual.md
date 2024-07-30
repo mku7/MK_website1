@@ -252,9 +252,9 @@ $$u\frac{\partial u}{\partial x} + v \frac{\partial u}{\partial y} + \frac{1}{\r
 
 $$\frac{1}{\rho}\frac{\partial P}{\partial y} = 0$$
 
-$$\frac{\delta}{L} = O(\frac{1}{\sqrt(Re)})$$
+$$\frac{\delta}{L} = O\left(\frac{1}{\sqrt(Re)}\right)$$
 
-$$\frac{v}{V} = O(\frac{\delta}{L}) = O(\frac{1}{\sqrt(Re)})$$
+$$\frac{v}{V} = O\left(\frac{\delta}{L}\right) = O\left(\frac{1}{\sqrt(Re)}\right)$$
 
 
 22. [Video - Boundary Layer Theory Video 3](https://www.youtube.com/watch?v=G7zJLgsaC0k&list=PL_EkjePoSGXgmXKjByxaPodoRaOLFPv2W&index=10&pp=iAQB)
