@@ -158,7 +158,7 @@ $$\frac{\partial T(x,t)}{\partial x} + m(x,t) = \rho I_\rho (x) \frac{\partial ^
 
 Governing Equation:
 
-$$\frac{\partial GJ(x) \frac{\partial \theta(x,t)}{\partial x}}{\partial x} + m(x,t) = \rho I_\rho (x) \frac{\partial ^2 \theta(x,t)}{\partial t^2}$$
+$$\frac{\partial}{\partial x} \left(GJ(x) \frac{\partial \theta(x,t)}{\partial x}\right) + m(x,t) = \rho I_\rho (x) \frac{\partial ^2 \theta(x,t)}{\partial t^2}$$
 
 For constant cross-section, uniform properties:
 
