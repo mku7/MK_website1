@@ -17,7 +17,11 @@
 [Video - Transonic Flow I](https://www.youtube.com/watch?v=uTkk97AETco)
 * [MK PPT - Transonic Flow](https://gtvault-my.sharepoint.com/:p:/g/personal/mku7_gatech_edu/EcTPWctxpX9LiJaMwVWixzkBhRGV4dNKmC1Kln5WvglWUQ?e=fbUe20)
 
+## Two Point Formula (on a Rigid Body)
 
+$$^A\vec{v}^P =  ^A\vec{v}^Q + \vec{\omega}\times \vec{r}^{QP}$$
+
+$$^A\vec{a}^P =  ^A\vec{a}^Q + ^A\vec{\omega}^B \times (^A\vec{\omega}^B \times \vec{r}^{QP}) + ^A\vec{\alpha}^B \times \vec{r}^{QP}$$
 
 ---
 
