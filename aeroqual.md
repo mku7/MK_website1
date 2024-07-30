@@ -241,9 +241,21 @@ $$d\Gamma = \gamma(\xi) d\xi$$
 
 ### Boundary Layer Theory
 
+
 20. [Video - Boundary Layer Theory Video 1](https://www.youtube.com/watch?v=rk5DGgeOIbE&list=PL_EkjePoSGXgmXKjByxaPodoRaOLFPv2W&index=8&pp=iAQB)
 
 21. [Video - Boundary Layer Theory Video 2](https://www.youtube.com/watch?v=njcSvmQ81jE&list=PL_EkjePoSGXgmXKjByxaPodoRaOLFPv2W&index=9&pp=iAQB)
+
+$$\frac{\partial u}{\partial x} + \frac{\partial v}{\partial y} = 0$$
+
+$$u\frac{\partial u}{\partial x} + v \frac{\partial u}{\partial y} + \frac{1}{\rho} \frac{\partial P}{\partial x} = \nu \frac{\partila^2 u}{\partial y^2}$$
+
+$$\frac{1}{\rho}\frac{\partial P}{\partial y} = 0$$
+
+$$\frac{\delta}{L} = O(\frac{1}{\sqrt(Re)})$$
+
+$$\frac{v}{V} = O(\frac{\delta}{L}) = O(\frac{1}{\sqrt(Re)})$$
+
 
 22. [Video - Boundary Layer Theory Video 3](https://www.youtube.com/watch?v=G7zJLgsaC0k&list=PL_EkjePoSGXgmXKjByxaPodoRaOLFPv2W&index=10&pp=iAQB)
 
