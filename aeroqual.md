@@ -341,3 +341,9 @@ $$\frac{v}{V} = O\left(\frac{\delta}{L}\right) = O\left(\frac{1}{\sqrt{Re}}\righ
 # Viscous Flow
 
 <img src="ViscousQualTopics.png" alt="Aero Qual Topics" style="width:50%; height:50%"/>
+
+---
+
+# Camber Effect on Airfoil Characteristics
+
+[Camber Effect](http://heli-air.net/2016/03/13/camber-and-drag/)
